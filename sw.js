@@ -1,6 +1,6 @@
 // EasyPDF instalado como app: guarda a página neste aparelho para abrir sem internet.
 // VERSAO é trocada pelo construir-web.mjs; mudar de versão faz o aparelho buscar a nova.
-const VERSAO = "2026-11-08 22:42";
+const VERSAO = "2026-11-09 16:14";
 const CACHE = `easypdf-${VERSAO}`;
 const FICHEIROS = ["./", "./manifest.webmanifest", "./icone-192.png", "./icone-512.png"];
 
